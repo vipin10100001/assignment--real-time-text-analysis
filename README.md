@@ -27,6 +27,11 @@ The app includes a unique background powered by **Three.js**, which renders a ro
 - The sphere’s color changes dynamically, creating a mesmerizing background animation while users interact with the text input.
 - The animation does not affect performance, as it's rendered efficiently using WebGL.
 
+
+- The **live demo link** has been updated to `https://realtimetextanalysis.vercel.app/`.
+  
+
+
 ## Getting Started
 
 To run the project locally, follow the steps below.
